@@ -62,7 +62,7 @@ if uploaded_file is not None:
     if check_label == "non-plant":
         st.error(f"🚫 The uploaded image is **not a plant**. Please upload a leaf image.")
     else:
-        st.success(f"✅ Image classified as plant ({check_conf * 100:.2f}%)")
+        st.success("✅ Image classified as a **plant**.")
         st.write("🩺 Classifying plant disease...")
 
         # Langkah 2: Klasifikasi penyakit
