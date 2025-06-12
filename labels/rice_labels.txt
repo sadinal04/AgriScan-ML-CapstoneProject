@@ -1,0 +1,9 @@
+rice_Bacterial Leaf Blight
+rice_Brown Spot
+rice_Healthy Rice Leaf
+rice_Leaf Blast
+rice_Leaf scald
+rice_Narrow Brown Leaf Spot
+rice_Neck_Blast
+rice_Rice Hispa
+rice_Sheath Blight
